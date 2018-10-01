@@ -6,8 +6,7 @@
 
 Commands list:
 - Ping
-- Info
-- Status
+
 
 
 Created by: 
