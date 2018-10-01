@@ -7,3 +7,7 @@ TO BE ADDED
 
 Created by: 
 PEOPLE ON EARTH
+
+
+
+Stuff: https://discord.gg/5YejEEM
