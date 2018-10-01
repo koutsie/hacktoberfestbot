@@ -5,11 +5,13 @@
 
 
 Commands list:
-TO BE ADDED
+- Ping
+- Info
+- Status
 
 
 Created by: 
-PEOPLE ON EARTH
+@GigaFyde#0008 / @themulti0#6484 / @Koutsie#0666
 
 
 
