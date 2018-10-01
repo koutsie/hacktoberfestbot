@@ -2,7 +2,8 @@
 ### A nice bot for all your hacktober needs!
 
 Commands list:
-TO BE ADDED
+- Ping
+- TBD
 
 
 Created by: 
